@@ -11,7 +11,7 @@ class Mysql():
         'host':'localhost',
         'port':3306,
         'user':'root',
-        'passwd':'Yule1919~!@',
+        'passwd':'root',
         'db':'dev',
         'charset':'utf8'
         }
